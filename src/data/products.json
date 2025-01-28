@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "productTitle": "Dishwashing Liquid",
+    "productDesc": "Premium dishwashing liquid that cuts through grease and leaves dishes sparkling clean. Gentle on hands with a fresh lemon scent.",
+    "productPrice": 100,
+    "imageUrl": "https://images.pexels.com/photos/7492919/pexels-photo-7492919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "Kitchen"
+  },
+  {
+    "id": 1,
+    "productTitle": "Handwash",
+    "productDesc": "Antibacterial handwash with moisturizing properties. Kills 99.9% of germs while keeping your hands soft and smooth.",
+    "productPrice": 200,
+    "imageUrl": "https://images.pexels.com/photos/821037/pexels-photo-821037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "category": "Personal Care"
+  },
+  {
+    "id": 2,
+    "productTitle": "Detergent",
+    "productDesc": "High-efficiency laundry detergent suitable for all types of fabrics. Removes tough stains while protecting colors.",
+    "productPrice": 300,
+    "imageUrl": "https://images.pexels.com/photos/5591588/pexels-photo-5591588.jpeg",
+    "category": "Laundry"
+  }
+]
